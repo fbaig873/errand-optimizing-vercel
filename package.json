@@ -1,0 +1,22 @@
+{
+  "name": "supabase-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbaig873/errand-optimizing-vercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbaig873/errand-optimizing-vercel/issues"
+  },
+  "homepage": "https://github.com/fbaig873/errand-optimizing-vercel#readme",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4"
+  }
+}
